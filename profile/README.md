@@ -23,14 +23,14 @@ Somos uma casa de engenharia formada por três sócios que colocam a mão no có
 
 ## O que a gente faz
 
-| | Serviço | Na prática |
-|---|---|---|
-| 🧩 | **Sistemas sob medida** | ERPs internos, portais, painéis de gestão e automações que tiram a planilha das costas da equipe |
-| 📱 | **Aplicativos móveis** | Apps iOS e Android com a mesma base de código, publicação nas lojas e atualizações sem dor de cabeça |
-| 🛒 | **Sites e e-commerce** | Presença digital rápida, encontrável no Google e pronta pra vender |
-| 🔗 | **Integrações e APIs** | Seus sistemas conversando entre si: ERP, meios de pagamento, marketplaces, WhatsApp, nota fiscal |
-| ☁️ | **Cloud e DevOps** | Infraestrutura enxuta, deploy automatizado e monitoramento |
-| 🛠️ | **Sustentação e evolução** | Já tem sistema rodando? A gente assume, organiza a casa e paga a dívida técnica |
+| Serviço | Na prática |
+|---|---|
+| **Sistemas sob medida** | ERPs internos, portais, painéis de gestão e automações que tiram a planilha das costas da equipe |
+| **Aplicativos móveis** | Apps iOS e Android com a mesma base de código, publicação nas lojas e atualizações sem dor de cabeça |
+| **Sites e e-commerce** | Presença digital rápida, encontrável no Google e pronta pra vender |
+| **Integrações e APIs** | Seus sistemas conversando entre si: ERP, meios de pagamento, marketplaces, WhatsApp, nota fiscal |
+| **Cloud e DevOps** | Infraestrutura enxuta, deploy automatizado e monitoramento |
+| **Sustentação e evolução** | Já tem sistema rodando? A gente assume, organiza a casa e paga a dívida técnica |
 
 ## Cinco passos, zero surpresa
 
